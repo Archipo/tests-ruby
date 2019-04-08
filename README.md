@@ -1,3 +1,5 @@
+Prénoms : Thibault Telliez & Antoine Jacques
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
